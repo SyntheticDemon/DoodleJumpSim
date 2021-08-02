@@ -1,0 +1,15 @@
+15
+100 500 bplatform
+100 300 platform
+200 400 mplatform
+300 500 spring
+500 1000 mplatform
+300 400 platform
+500 1000 platform
+200 1000 spring
+200 600 mplatform
+200 1200 mplatform
+200 1300 mplatform
+200 1500 platform
+400 1600 bplatform
+500 1950 platform
